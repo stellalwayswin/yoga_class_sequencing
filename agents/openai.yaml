@@ -1,0 +1,6 @@
+interface:
+  display_name: "瑜伽课程编排"
+  short_description: "基于动作库编排瑜伽课程，核验实际练习量、转换教学与跟练质量"
+  default_prompt: "使用 $yoga_class_sequencing，基于我提供的动作库编排并核验瑜伽课程。"
+policy:
+  allow_implicit_invocation: true
